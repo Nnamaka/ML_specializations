@@ -1,3 +1,5 @@
 *.zip
 *.gz
 Myimages/
+*.jpg
+preprocess.py
