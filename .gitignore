@@ -4,3 +4,4 @@ Myimages/
 *.jpg
 preprocess.py
 Computer_vision/face_Detection/verify.ipynb
+*.h5
